@@ -11,6 +11,10 @@ notebook = "^7.1.3"
 pandas = "^2.2.2"
 numpy = "^1.26.4"
 scipy = "^1.13.0"
+matplotlib = "^3.8.4"
+seaborn = "^0.13.2"
+statsmodels = "^0.14.2"
+pingouin = "^0.5.4"
 
 
 [build-system]
