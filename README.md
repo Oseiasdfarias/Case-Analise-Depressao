@@ -27,7 +27,6 @@
   <ul>
     <li>👨🏾‍💻 Tratamento dos Dados</li>
     <li>👨🏾‍💻 Estatística Descritiva</li>
-    <li>👨🏾‍💻 Análise Exploratória dos Dados</li>
     <li>👨🏾‍💻 Análise Exploratória (EDA) Univariada</li>
     <li>👨🏾‍💻 Análise Exploratória (EDA) Bivariada</li>
     <li>👨🏾‍💻 Testes de Hipóteses</li>
