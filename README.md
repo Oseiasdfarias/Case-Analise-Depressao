@@ -4,7 +4,16 @@
 
 <p align="center">
     <a href="#roadmap">Roadmap</a>
-  • <a href="#techs">Tecnologias</a> 
+  • <a href="#techs">Tecnologias</a>
+  • <a href="#id1"> 📌 Visão Geral</a>
+  • <a href="#id2"> 💼 Entendimento do Negócio</a> 
+  • <a href="#id3"> 📊 Análise do Modelo Atual</a> 
+  • <a href="#id4"> 🛠 Pré-processamento</a> 
+  • <a href="#id5"> 🤖 Modelagem e Avaliação</a> 
+  • <a href="#id6"> 📈 Insights e Conclusões</a> 
+  • <a href="#id7"> 📜 Estrutura do Projeto</a> 
+  • <a href="#id8"> 🚧 Próximos Passos</a> 
+  • <a href="#id9"> 🎥 Rede Social</a> 
 </p>
 
 
@@ -36,10 +45,47 @@
 </p>
 
 
+<h3 id="id1">📌 Visão Geral</h3>
+
+
+<h3 id="id2">💼 Entendimento do Negócio</h3>
+
+<h4>Tipos de Análise Realizados:</h4>
+
+<h4>Principais Indicadores Chave de Desempenho:</h4>
+
+<h3 id="id3">📊 Análise do Modelo Atual</h3>
+
+
+<h3 id="id4">🛠 Pré-processamento</h3>
+
+
+<h4>Considerações Importantes:</h4>
+
+
+<h4>Etapas do Pré-processamento no Pipeline:
+
+</h4>
+
+
+<h3 id="id5">🤖 Modelagem e Avaliação</h3>
+
+
+
+<h3 id="id6">📈 Insights e Conclusões</h3>
+
+
+
+<h3 id="id7">📜 Estrutura do Projeto</h3>
+
+
+<h3 id="id8">🚧 Próximos Passos</h3>
+
+
 
 # Em Desenvolvimento ...🚧
 
-<h3  id="techs">Rede Social</h3>
+<h3  id="id9">🎥 Rede Social</h3>
 
 <p align=center> <a href="https://www.linkedin.com/in/oseiasfarias/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://oseiasfarias.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
