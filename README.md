@@ -2,18 +2,18 @@
   <img height="70px" src="./utils/depressao_logo.png">
 </p>
 
-<p align="center">
-    <a href="#roadmap">Roadmap</a>
+<p align="center" style="font-size:1.5vw">
+    <a href="#roadmap">Roadmap</a><br>
   • <a href="#techs">Tecnologias</a>
-  • <a href="#id1"> 📌 Visão Geral</a>
-  • <a href="#id2"> 💼 Entendimento do Negócio</a> 
-  • <a href="#id3"> 📊 Análise do Modelo Atual</a> 
-  • <a href="#id4"> 🛠 Pré-processamento</a> 
-  • <a href="#id5"> 🤖 Modelagem e Avaliação</a> 
-  • <a href="#id6"> 📈 Insights e Conclusões</a> 
-  • <a href="#id7"> 📜 Estrutura do Projeto</a> 
-  • <a href="#id8"> 🚧 Próximos Passos</a> 
-  • <a href="#id9"> 🎥 Rede Social</a> 
+  • <a href="#id1">  Visão Geral</a>
+  • <a href="#id2">  Entendimento do Negócio</a> 
+  • <a href="#id3">  Análise do Modelo Atual</a> 
+  • <a href="#id4">  Pré-processamento</a> 
+  • <a href="#id5">  Modelagem e Avaliação</a> 
+  • <a href="#id6">  Insights e Conclusões</a> 
+  • <a href="#id7">  Estrutura do Projeto</a> 
+  • <a href="#id8">  Próximos Passos</a> 
+  • <a href="#id9">  Rede Social</a> 
 </p>
 
 
