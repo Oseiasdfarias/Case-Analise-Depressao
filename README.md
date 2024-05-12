@@ -3,7 +3,6 @@
 </p>
 
 <p align="center" style="font-size:1.5vw">
-    <a href="#roadmap">Roadmap</a><br>
   • <a href="#techs">Tecnologias</a>
   • <a href="#id1">  Visão Geral</a>
   • <a href="#id2">  Entendimento do Negócio</a> 
@@ -30,12 +29,16 @@
 
 # Análise dos fatores depressivos - base de dados NHANES 2005-2006
 
-<h3>Roadmap</h3>
+
+<h3 id="id1">📌 Visão Geral</h3>
+
+
+<h3 id="id2">💼 Entendimento do Negócio</h3>
+
+<h4>Tipos de Análise Realizados:</h4>
 
 <p id="roadmap"> 
   <ul>
-    <li>👨🏾‍💻 Tratamento dos Dados</li>
-    <li>👨🏾‍💻 Estatística Descritiva</li>
     <li>👨🏾‍💻 Análise Exploratória (EDA) Univariada</li>
     <li>👨🏾‍💻 Análise Exploratória (EDA) Bivariada</li>
     <li>👨🏾‍💻 Testes de Hipóteses</li>
@@ -44,13 +47,6 @@
   </ul>
 </p>
 
-
-<h3 id="id1">📌 Visão Geral</h3>
-
-
-<h3 id="id2">💼 Entendimento do Negócio</h3>
-
-<h4>Tipos de Análise Realizados:</h4>
 
 <h4>Principais Indicadores Chave de Desempenho:</h4>
 
