@@ -2,7 +2,7 @@
   <img height="70px" src="./reports/figures/depressao_logo.png">
 </p>
 
-<p align="center" style="font-size:1.5vw">
+<p align="center" style="font-size:1.5vw text-decoration:none">
   • <a href="#techs">Tecnologias</a>
   • <a href="#id1">  Visão Geral</a>
   • <a href="#id2">  Entendimento do Negócio</a> 
