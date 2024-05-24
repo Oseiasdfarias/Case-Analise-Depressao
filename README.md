@@ -27,6 +27,12 @@
 </p>
 
 
+<p align="center">
+  <img wigth="90%" src="./reports/figures/banner_hnes.png">
+</p>
+
+
+
 # Análise dos fatores depressivos - base de dados NHANES 2005-2006
 
 
