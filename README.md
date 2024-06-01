@@ -3,6 +3,24 @@
 </p>
 
 
+<h3  id="techs">Sumário</h3>
+
+
+<p id="roadmap"> 
+  <ul>
+    <li>👨🏾‍💻 <a href="#techs">Tecnologias</a></li>
+    <li>👨🏾‍💻 <a href="#id1">  Visão Geral</a> </li>
+    <li>👨🏾‍💻 <a href="#id2">  Entendimento do Negócio</a> </li>
+    <li>👨🏾‍💻 <a href="#id3">  Análise do Modelo Atual</a> </li>
+    <li>👨🏾‍💻 <a href="#id4">  Pré-processamento</a>  </li>
+    <li>👨🏾‍💻 <a href="#id5">  Modelagem e Avaliação</a>  </li>
+    <li>👨🏾‍💻 <a href="#id6">  Insights e Conclusões</a>  </li>
+    <li>👨🏾‍💻 <a href="#id7">  Estrutura do Projeto</a>  </li>
+    <li>👨🏾‍💻 <a href="#id8">  Próximos Passos</a>  </li>
+    <li>👨🏾‍💻 <a href="#id9">  Rede Social</a>  </li>
+  </ul>
+</p>
+
 
 ---
 
@@ -23,23 +41,6 @@
 
 # Análise dos fatores depressivos - base de dados NHANES 2005-2006
 
-<h3  id="techs">Sumário</h3>
-
-
-<p id="roadmap"> 
-  <ul>
-    <li>👨🏾‍💻 <a href="#techs">Tecnologias</a></li>
-    <li>👨🏾‍💻 <a href="#id1">  Visão Geral</a> </li>
-    <li>👨🏾‍💻 <a href="#id2">  Entendimento do Negócio</a> </li>
-    <li>👨🏾‍💻 <a href="#id3">  Análise do Modelo Atual</a> </li>
-    <li>👨🏾‍💻 <a href="#id4">  Pré-processamento</a>  </li>
-    <li>👨🏾‍💻 <a href="#id5">  Modelagem e Avaliação</a>  </li>
-    <li>👨🏾‍💻 <a href="#id6">  Insights e Conclusões</a>  </li>
-    <li>👨🏾‍💻 <a href="#id7">  Estrutura do Projeto</a>  </li>
-    <li>👨🏾‍💻 <a href="#id8">  Próximos Passos</a>  </li>
-    <li>👨🏾‍💻 <a href="#id9">  Rede Social</a>  </li>
-  </ul>
-</p>
 
 
 
